@@ -1,7 +1,7 @@
 # trick3-animation
 
 - [Demo Project](https://nasim1380p.github.io/trick3-animation/)
-- 🙃
+- 🙄🙄
 ![pic3](https://github.com/Nasim1380p/trick3-animation/assets/155636802/83742bed-d2ba-4b9e-8212-75569be631be)
 
 
